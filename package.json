@@ -27,8 +27,5 @@
 		"eslint": "7.32.0",
 		"prettier": "^2.5.1",
 		"prettier-eslint-cli": "^5.0.1"
-	},
-	"dependencies": {
-		"discord-oauth2": "dexslab/discord-oauth2"
 	}
 }
